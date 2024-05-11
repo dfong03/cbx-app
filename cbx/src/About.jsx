@@ -121,7 +121,7 @@ export default function About() {
                 }}
             >
                 <p>
-                    Founded in 2023, CBX Partners is a private equity <br></br>
+                    Founded in 2024, CBX Partners is a private equity <br></br>
                     firm ran exclusively by Columbia undergraduates.<br></br>
                     CBX Partners makes co-investments in buyout<br></br>
                     transactions alongside partner private investment firms.
